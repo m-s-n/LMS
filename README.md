@@ -1,6 +1,5 @@
-# Industrial Training Project ETMS 311
-Library Management System using Java and MySQL
-
+# Library Management System using Java and MySQL
+Industrial Training Project ETMS 311
  
 
 # Course: ETMS 311
@@ -41,4 +40,3 @@ Library Management System using Java and MySQL
 - Expand Project->Source Packages->mainlibrary->DB.java
 - Change the Authentication Setting
 
-**NOTE: if any error, check [closed issues](https://github.com/bikashtudu/DBISProject/issues?q=is%3Aissue+is%3Aclosed) too.**
