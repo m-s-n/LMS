@@ -1,6 +1,5 @@
 # Library Management System using Java and MySQL
 Industrial Training Project ETMS 311
- 
 
 # Course: ETMS 311
 
@@ -39,4 +38,3 @@ Industrial Training Project ETMS 311
 5) Database setting can be changed
 - Expand Project->Source Packages->mainlibrary->DB.java
 - Change the Authentication Setting
-
