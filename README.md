@@ -1,21 +1,11 @@
-# Industrial Training Project ETMS 311
-Library Management System using Java and MySQL
-<p align="center">
-  <a href="https://github.com/bikashtudu/DBISProject/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/bikashtudu/DBISProject.svg">
-  </a>
-  <a href="https://github.com/bikashtudu/DBISProject/network">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/bikashtudu/DBISProject.svg">
-  </a>
-</p>
- https://bikashtudu.github.io/DBISProject/
+# Library Management System using Java and MySQL
+Industrial Training Project ETMS 311
 
-# Minor Project
-Course: CS 257
+# Course: ETMS 311
+
 
 # Developed By
-- Bikash Kumar Tudu [tudu.bikash@gmail.com]
-- Piyush Kalkute
+- Mayank Singh [msn2106@gmail.com]
 
 # Environment and Requirement
 - Programming Language: JAVA with  Swings
@@ -32,11 +22,11 @@ Course: CS 257
 - /MySQL Connector: Contains JDBC/MySQL JConnnector
 
 # Instructions
-1) Clone the Project using link https://github.com/EncoSier/DBISProject.git or Download the zip
+1) Clone the Project using link {} or Download the zip
 
 2) Importing Java Project in NetBeans
 - Clone the project in the NetBeans 8.1
-- NetBeans->Team->Git->Clone and copy-paste the https://github.com/EncoSier/DBISProject.git link
+- NetBeans->Team->Git->Clone and copy-paste the {} link
 
 3) Importing Database(Schema+Data)
 - Import the Database in the MySQL database using MySQL WorkBench(Version is mentioned above)
@@ -48,5 +38,3 @@ Course: CS 257
 5) Database setting can be changed
 - Expand Project->Source Packages->mainlibrary->DB.java
 - Change the Authentication Setting
-
-**NOTE: if any error, check [closed issues](https://github.com/bikashtudu/DBISProject/issues?q=is%3Aissue+is%3Aclosed) too.**
